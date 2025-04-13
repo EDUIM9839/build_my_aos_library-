@@ -1,4 +1,4 @@
-build library AOS - Animate on scroll library 
+build library my  AOS - Animate on scroll library 
 
 <h1><a href="https://eduim9839.github.io/build_my_aos_library-/">demo</a></h1>
 
