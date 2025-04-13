@@ -14,7 +14,7 @@ function initAOS() {
       });
     }
   
-    // Set easing from attribute
+
     elements.forEach(el => {
       const easing = el.getAttribute('data-aos-easing');
       if (easing) {
